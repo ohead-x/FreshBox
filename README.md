@@ -1,4 +1,5 @@
-# FreshBox – Backend Contribution
+# FreshBox – Android Client (Team Project)
+
 
 바코드 기반 식재료 관리 및 레시피 추천 서비스입니다.  
 Android 앱과 Spring Boot 백엔드가 REST API로 통신합니다.
